@@ -25,4 +25,12 @@ In Stage 5， The system moved closer to a state of thermal equilibrium, where e
 
 5	Therefore under this model the energy redistribution within the SEQ network is primarily the redistribution of spin kinetic energy spinor redistribution -the main factor of entropy increasing.
 
+
+Why does the uniform distribution of spin kinetic energy indicate an increase in entropy?
+E-global SEQ network ​=K-resonant​+K-spin​+U-elastic​
+
+For each SEQ , K-resonant​+U-elastic​=constant; The conversion between SEQ elastic potential energy and SEQ resonant kinetic energy is achieved through SEQ frequency modulation, which will be discussed in detail in Chapter 13.
+
+The homogenization of K-spin distribution signifies an increase in entropy. In this model, K spin is essentially linked to the Higgs mechanism and can be regarded as a mirror of mass states. The more concentrated the K spin, the more mass exists in the universe. When entropy reaches its maximum, all mass is transformed into energy — specifically, the spin kinetic energy of SEQ becomes uniformly distributed. Through repeated cycles of cosmic expansion, contraction, and relaxation, the spin kinetic energy within the SEQ network gradually becomes homogenized.
+
 The Preprint: Zou, Z. K. (2025). Multiplicative Entropy Encodes Time-Causality; Gauge Mediates Mass-Gravity; Frequency Mirrors Metric-Geometry. Zenodo. https://doi.org/10.5281/zenodo.15278220
