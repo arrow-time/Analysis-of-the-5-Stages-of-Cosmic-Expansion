@@ -27,6 +27,7 @@ In Stage 5， The system moved closer to a state of thermal equilibrium, where e
 
 
 Why does the uniform distribution of spin kinetic energy indicate an increase in entropy?
+
 E-global SEQ network ​=K-resonant​+K-spin​+U-elastic​
 
 For each SEQ , K-resonant​+U-elastic​=constant; The conversion between SEQ elastic potential energy and SEQ resonant kinetic energy is achieved through SEQ frequency modulation, which will be discussed in detail in Chapter 13.
