@@ -2,7 +2,7 @@
 
 ### Five Phases of Cosmic Expansion: Accelerated and Decelerated Expansion, Accelerated and Decelerated Contraction, and Equilibrium Oscillation
 
-Before the Big Bang, the universe existed in a highly compressed state, known as the Pre-Big Bang Initial State (Stage 0) . In this state, the universe’s SEQ (Spacetime Energy Quantum) network was tightly packed, with resonant frequencies nearly at zero. This low-entropy condition was characterized by a few SEQ possessing high spin kinetic energy, while the majority had very low spin kinetic energy, forming a High-energy Aggregation State.
+Before the Big Bang, the universe existed in a highly compressed state, known as the Pre-Big Bang Initial State (Stage 0) . In this state, the universe’s SEQ (Spacetime Energy Quantum) network was tightly packed, with resonant frequencies nearly at zero. This low-entropy condition was characterized by a few SEQ possessing high energy, while the majority had very low energy, forming a High-energy Aggregation State.
 
 In Stage 1, the universe entered a phase where compression potential energy was converted into kinetic energy. This marked the beginning of cosmic expansion. As the elastic compression potential energy was released, it transformed into the kinetic energy driving the universe’s rapid expansion. During this stage, the universe experienced accelerating expansion, maintaining a relatively low entropy state, yet with a high concentration of energy and a rapid increase in entropy.
 
@@ -19,19 +19,13 @@ In Stage 5， The system moved closer to a state of thermal equilibrium, where e
 
 2	In this model the energy of SEQ mᵢ equals the SEQ resonant kinetic energy plus the SEQ spin rotational kinetic energy plus the elastic potential energy assigned to this SEQ from its adjacent elastic bonds manifested as frequency suppression.
 
-3	In this model, the sum of the SEQ resonant kinetic energy and the elastic potential energy assigned to this SEQ from its adjacent elastic bonds manifested as frequency suppression remains invariant. 
-
-4	Chapter 10 will discuss that mass formation is mainly due to spin locking the spatial compression state and the key factor is the coupling confinement potential between the spinor and the SEQ fixed chirality spin.
-
-5	Therefore under this model the energy redistribution within the SEQ network is primarily the redistribution of spin kinetic energy spinor redistribution -the main factor of entropy increasing.
+3	Chapter 10 will discuss that mass formation is mainly due to spin locking the spatial compression state and the key factor is the coupling confinement potential between the spinor and the SEQ fixed chirality spin.
 
 
-## Why does the uniform distribution of spin kinetic energy indicate an increase in entropy?
+
 
 ## E-global SEQ network ​=K-resonant​+K-spin​+U-elastic​
 
-## For each SEQ , K-resonant​+U-elastic​=constant; The conversion between SEQ elastic potential energy and SEQ resonant kinetic energy is achieved through SEQ frequency modulation, which will be discussed in detail in Chapter 13.
 
-The homogenization of K-spin distribution signifies an increase in entropy. In this model, K spin is essentially linked to the Higgs mechanism and can be regarded as a mirror of mass states. The more concentrated the K spin, the more mass exists in the universe. When entropy reaches its maximum, all mass is transformed into energy — specifically, the spin kinetic energy of SEQ becomes uniformly distributed. Through repeated cycles of cosmic expansion, contraction, and relaxation, the spin kinetic energy within the SEQ network gradually becomes homogenized.
 
 The Preprint: Zou, Z. K. (2025). Multiplicative Entropy Encodes Time-Causality; Gauge Mediates Mass-Gravity; Frequency Mirrors Metric-Geometry. Zenodo. https://doi.org/10.5281/zenodo.15278220
