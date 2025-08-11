@@ -1,4 +1,4 @@
-# Analysis of the 5 Stages of Cosmic Expansion
+# Analysis of the 5 Stages of Cosmic Evolution
 
 ### Five Phases of Cosmic Expansion: Accelerated and Decelerated Expansion, Accelerated and Decelerated Contraction, and Equilibrium Oscillation
 
